@@ -1,0 +1,8 @@
+1.Make the ghosts more intelligent.
+2.Add sounds
+3.Make pacman and ghosts more real.
+4.Make the movement smooth.
+5.Add two extra screens for entry and exit.
+6.Add super pill.
+7.Change the control between the pacman and the ghosts.
+
